@@ -8,7 +8,7 @@ public class Swich {
     public static void main(String[] args) {
     switch (1){
 
- /*       swich (5){
+ /*       switch (5){
         case 5:
             System.out.println("five");
     break;

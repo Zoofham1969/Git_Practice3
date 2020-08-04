@@ -1,4 +1,4 @@
-package day11_Nestedif_Switch;
+package day11_Nestedif_Turnary;
 /* 90 ~ 100 ==> A
     80 ~ 89 ==> B
     70 ~ 79 ==> C
@@ -36,20 +36,6 @@ public class NestedIf {
         System.out.println(result);
 
         System.out.println("========================================================");
-    /*  task01 :
-    precondition : minimum salary of 30K
-        sub condition: minimum 2 years of job history
-        Task02:
-        1 monday
-        2 Tuesday
-        3 Wednesday
-        ....
-        7 Sunday
-        invalid ==> there is no such a day
-
-     */
-
-
 
 
 

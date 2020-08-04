@@ -14,7 +14,7 @@ package day12_swich_scaner;
  */
 public class BigerNumber {
     public static void main(String[] args) {
-double n1 = 100;
+double n1 = 1000;
 double n2 = 200;
 double n3 = 300;
 boolean n1IsBigger = n1 > n2 && n1 > n3;

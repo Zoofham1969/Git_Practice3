@@ -1,4 +1,4 @@
-package day11_Nestedif_Switch;
+package day11_Nestedif_Turnary;
 
 public class hgfd {
 /*warmup task:

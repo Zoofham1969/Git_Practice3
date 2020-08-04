@@ -1,6 +1,4 @@
-package day11_Nestedif_Switch;
-
-import org.w3c.dom.ls.LSOutput;
+package day11_Nestedif_Turnary;
 
 public class ternary {
     public static void main(String[] args) {
