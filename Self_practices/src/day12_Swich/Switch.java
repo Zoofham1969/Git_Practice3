@@ -1,6 +1,6 @@
-package day12_Swich;
+  package day12_Swich;
 
-public class Swich {
+  public class Switch {
 /*
 switch statement:
 
@@ -25,7 +25,22 @@ switch statement:
             default: gets executed if none of the cases are matching. can be placed at anywhere. not mandatory
             break: used for exiting bthe switch
 */
-public static void main(String[] args) {
+    public static void main(String[] args) {
+  int a = 1;
+
+   switch(a){
+
+       case 5 :
+           System.out.println("five");
+           break;
+
+       case 1:
+           System.out.println("one");
+       //    break;
+       default:
+           System.out.println("invalid case");
+          break;
+   }
 
 
 
