@@ -1,9 +1,9 @@
-package day38_javaRecap;
+package day38_javaRecap_I_Q;
 
 import java.util.ArrayList;
 import java.util.Arrays;
 
-public class GradeReport {
+public class GradeReport_I_Q {
     public static void main(String[] args) {
 
         ArrayList<Integer> list = new ArrayList<>();
@@ -38,7 +38,12 @@ public class GradeReport {
         gradeD.removeIf(p -> p <60 || p >69);
         System.out.println("Grade D: " + gradeD);
 
-
+  /*
+        gradeF.removeAll( gradeA );
+        gradeF.removeAll( gradeB );
+        gradeF.removeAll( gradeC );
+        gradeF.removeAll( gradeD );
+        */
 
 
         ArrayList<Integer> gradeF = new ArrayList<>(); //0 ~ 59
@@ -46,6 +51,16 @@ public class GradeReport {
         gradeF.removeIf(p -> p >59 );
 
         System.out.println("Grade F: " + gradeF);
+
+        System.out.println("=========================================================");
+
+        System.out.println(gradeA.size()+"students made A");
+        System.out.println(gradeB.size()+"students made B");
+        System.out.println(gradeC.size()+"students made C");
+        System.out.println(gradeD.size()+"students made D");
+        System.out.println(gradeF.size()+"students made F");
+
+
 
 
 
