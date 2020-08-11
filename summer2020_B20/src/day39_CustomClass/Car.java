@@ -3,7 +3,7 @@ package day39_CustomClass;
 public class Car {
     /*
     Attributes:
-    model, brand year, color, mileage, VIN
+    model, brand, year, color, mileage, price
     */
 
  String model;
@@ -24,12 +24,16 @@ public class Car {
         mileage = carMileage;
         price = carPrice;
 
-// 2012 Toyota Corolla, red, 10000, 4500
+        // 2012 Toyota Corolla, red, 10000, 4500
 
 
 
  }
-
+        /*
+        car1 :Toyota
+        car2: BMW
+        car3: Tesla
+        */
 
 
 
