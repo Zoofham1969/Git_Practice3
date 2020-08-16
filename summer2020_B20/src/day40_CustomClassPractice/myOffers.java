@@ -1,4 +1,4 @@
-package day40_;
+package day40_CustomClassPractice;
 import java.util.ArrayList;
 import java.util.Arrays;
 
