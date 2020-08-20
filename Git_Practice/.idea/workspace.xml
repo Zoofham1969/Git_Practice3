@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="0d71f1af-2e69-41eb-a14f-dcde1527de84" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/../ gitDemo/ gitDemo.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../.idea/IdeaProjects.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Git_Practice.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Summer2020_B20_git/Summer2020_B20_git.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../gitPractice" beforeDir="false" afterPath="$PROJECT_DIR$/../gitPractice" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="ProjectId" id="1gN2FfP4opQo8h1VKKgbHjHYFax" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="settings.editor.selected.configurable" value="org.jetbrains.plugins.github.ui.GithubSettingsConfigurable" />
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="0d71f1af-2e69-41eb-a14f-dcde1527de84" name="Default Changelist" comment="" />
+      <created>1597940626215</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1597940626215</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="528" y="284" key="Github.ShareDialog" timestamp="1597941581969">
+      <screen x="0" y="23" width="1440" height="797" />
+    </state>
+    <state x="528" y="284" key="Github.ShareDialog/0.23.1440.797/1440.23.1280.1001@0.23.1440.797" timestamp="1597941581969" />
+    <state x="0" y="23" key="SettingsEditor" timestamp="1597941071916">
+      <screen x="0" y="23" width="1440" height="797" />
+    </state>
+    <state x="0" y="23" key="SettingsEditor/0.23.1440.797/1440.23.1280.1001@0.23.1440.797" timestamp="1597941071916" />
+    <state x="0" y="23" key="new project wizard" timestamp="1597941737026">
+      <screen x="0" y="23" width="1440" height="797" />
+    </state>
+    <state x="0" y="23" key="new project wizard/0.23.1440.797/1440.23.1280.1001@0.23.1440.797" timestamp="1597941737026" />
+  </component>
+</project>
